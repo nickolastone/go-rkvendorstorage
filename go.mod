@@ -1,3 +1,3 @@
-module github.com/jamesits/go-rkvendorstorage
+module github.com/nickolastone/go-rkvendorstorage
 
 go 1.16

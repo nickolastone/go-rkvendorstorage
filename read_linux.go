@@ -1,3 +1,6 @@
+//go:build linux || android || openwrt
+// +build linux android openwrt
+
 package rkvendorstorage
 
 import (
